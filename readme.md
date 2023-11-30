@@ -4,7 +4,6 @@
 
 <video width="560" height="315" controls>
   <source src="img/UX-UI-Wireframe-App.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 
