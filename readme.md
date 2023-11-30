@@ -2,7 +2,9 @@
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NdUTU9humSo" frameborder="0" allowfullscreen></iframe>
+[![Assista ao Vídeo](https://img.youtube.com/vi/NdUTU9humSo/0.jpg)](https://www.youtube.com/watch?v=NdUTU9humSo)
+
+
 
 
 
